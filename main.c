@@ -9,6 +9,6 @@ int main(int argc, char **argv)
 	fgets(name, 255,stdin);
 	name[strlen(name)-1] = '\0'; /* rimove the newline at the end */
 
-	printf("Hello %s!\n",name);
+	printf("Hello, %s!\n",name);
 	reurn 0;
 }

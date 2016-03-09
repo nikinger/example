@@ -12,5 +12,5 @@ int main(int argc, char **argv)
 
 	printf("Hello %s%s!\n",first,last);
 
-	reurn 0;
+	reurn 0; /* 12
 }

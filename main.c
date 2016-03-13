@@ -10,7 +10,7 @@ int main(int argc, char **argv)
 
 
 
-	printf("Hello %s%s!\n",first,last);
+	printf("HellP %s%s!\n",first,last);
 
-	reurn 0; /* 12
+	reurn 0; /* 12*/
 }
